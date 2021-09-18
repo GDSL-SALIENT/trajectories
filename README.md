@@ -8,6 +8,7 @@ This page is dedicated to the a project funded by the UKRI (ESRC) and the Ordnan
 
 The research outcomes of this project have had a number of outputs.
 
+
 ## Journal articles
 
 Patias, N., Rowe, F., and Cavazzi, S. (2020). A scalable analytical
@@ -26,6 +27,11 @@ Rowe, F., Patias, N., and Arribas-Bel, D. (2020). Policy brief: Neighbourhood
 change and trajectories of inequality in britain, 1971-2011 
 [Access here](https://uk2070.org.uk/wp-content/uploads/2020/02/07-Neighbourhood-Inequality.pdf)
 
+
+## Open data product
+
+The outputs of this project can be downloaded as a geopackage from
+[here](https://data.cdrc.ac.uk/dataset/neighbourhood-trajectories-great-britain-1971-2011)
 
 ## Interactive maps
 Temporal neighbourhood classification 1971-2011
