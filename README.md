@@ -1,5 +1,7 @@
 # Trajectories of neighbourhood socioeconomic change in Great Britain: 1971-2011
 
+
+
 This page is dedicated to the a project funded by the UKRI (ESRC) and the Ordnance Survey
  through the Data Analytics and Society Centre for Doctoral Training with grant reference
  number ES/P000401/1.
@@ -39,3 +41,7 @@ CARTO Map of The Month: Trajectories of Neighbourhood Change
 Read the article [here](https://carto.com/blog/trajectories-of-neighbourhood-change-map/)
 
 
+## Code
+
+The code used for the analysis can be found
+[here](https://github.com/patnik/neighbourhood_change)
