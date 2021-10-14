@@ -1,4 +1,4 @@
-# Trajectories of neighbourhood socioeconomic change in Great Britain: 1971-2011
+# Trajectories of Neighbourhood Socioeconomic Change in Great Britain: 1971-2011
 
 
 
