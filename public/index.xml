@@ -9,11 +9,14 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research team</title>
-      <link>www.example.com/docs/install-hugo/</link>
+      <link>www.example.com/docs/research-team/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>www.example.com/docs/install-hugo/</guid>
-      <description>Nikos Patias Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the Global Migration Data Analysis Centre within International Organization for Migration, the United Nations Economic Commission for Latin America and the Caribbean, the UK2070 Commission, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix.</description>
+      <guid>www.example.com/docs/research-team/</guid>
+      <description>Nikos Patias Contact N.Patias@liverpool.ac.uk
+patnik.github.io
+@pat_nikos
+Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the Global Migration Data Analysis Centre within International Organization for Migration, the United Nations Economic Commission for Latin America and the Caribbean, the UK2070 Commission, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix.</description>
     </item>
     
     <item>
