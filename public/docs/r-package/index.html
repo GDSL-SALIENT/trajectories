@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Index - Hugo Whisper Theme</title>
+  <title>extRatum - Hugo Whisper Theme</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="icon" href="www.example.com/favicon.png">
@@ -111,7 +111,7 @@
     </li>
     
     <li class="active ">
-      <a href="www.example.com/docs/r-package/">Index</a>
+      <a href="www.example.com/docs/r-package/">extRatum</a>
     </li>
     
     <li class="">
@@ -119,7 +119,7 @@
     </li>
     
     <li class="">
-      <a href="www.example.com/docs/media/">Index</a>
+      <a href="www.example.com/docs/media/">Media</a>
     </li>
     
     <li class="">
@@ -141,12 +141,44 @@
         </div>
         <div class="col-12 col-md-9">
           
-<h1 class="title">Index</h1>
+<h1 class="title">extRatum</h1>
 <div class="content ">
-  <p>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.</p>
+  <p>An R package that calculates summary indices for built environment characteristics.</p>
+<h1 id="extratum-img-width150-srcmanfiguresstickerpng-alignright-">extRatum <!-- raw HTML omitted --></h1>
+<p><a href="https://cran.r-project.org/package=extRatum"><img src="http://www.r-pkg.org/badges/version/extRatum" alt="CRAN\_Status\_Badge"></a>
+<img src="http://cranlogs.r-pkg.org/badges/grand-total/extRatum" alt="RStudio CRANdownloads">
+<img src="http://cranlogs.r-pkg.org/badges/extRatum" alt="RStudio CRAN monthlydownloads">
+<a href="https://www.rdocumentation.org/packages/extRatum"><img src="https://www.rdocumentation.org/badges/version/extRatum" alt="Rdocumentation"></a></p>
+<h2 id="overview">Overview</h2>
+<p><code>extRatum</code> is a package used to provide summary statistics of local geospatial features within a given geographic area. It does so by calculating the area covered by a target geospatial feature (i.e. buildings, parks, lakes, etc.). The geospatial features can be of any type of geospatial data, including point, polygon or line data.
+For examples of <code>extRatum</code> functionalities follow this <a href="https://github.com/patnik/extRatum_examples">link</a> and for the package website this <a href="https://patnik.github.io/extRatum/index.html">link</a>.</p>
+<h2 id="installation">Installation</h2>
+<p>The easiest way to get extRatum is to install it from CRAN:</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">install.packages(&#34;extRatum&#34;)
+</code></pre></div><h3 id="development-version">Development version</h3>
+<p>To get a bug fix or to use a feature from the development version, you can install 
+the development version of extRatum from GitHub.</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"># install.packages(&#34;devtools&#34;)
+devtools::install_github(&#34;patnik/extRatum&#34;)
+</code></pre></div><h2 id="citation">Citation</h2>
+<p>To extract <code>extRatum</code> citation, type the following code.</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">citation(&#39;extRatum&#39;)
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go">
+<span class="nx">To</span> <span class="nx">cite</span> <span class="kn">package</span> <span class="err">&#39;</span><span class="nx">extRatum</span><span class="err">&#39;</span> <span class="nx">in</span> <span class="nx">publications</span> <span class="nx">use</span><span class="p">:</span>
 
+ <span class="nx">Nikos</span> <span class="nx">Patias</span> <span class="nx">and</span> <span class="nx">Francisco</span> <span class="nf">Rowe</span> <span class="p">(</span><span class="mi">2021</span><span class="p">).</span> <span class="nx">extRatum</span><span class="p">:</span> <span class="nx">Summary</span> <span class="nx">Statistics</span>
+ <span class="k">for</span> <span class="nx">Geospatial</span> <span class="nx">Features</span><span class="p">.</span> <span class="nx">R</span> <span class="kn">package</span> <span class="nx">version</span> <span class="mf">1.0.4</span><span class="p">.</span>
+ <span class="nx">https</span><span class="p">:</span><span class="c1">//CRAN.R-project.org/package=extRatum
+</span><span class="c1"></span> 
+ <span class="nx">A</span> <span class="nx">BibTeX</span> <span class="nx">entry</span> <span class="k">for</span> <span class="nx">LaTeX</span> <span class="nx">users</span> <span class="nx">is</span>
+ <span class="err">@</span><span class="nx">Manual</span><span class="p">{,</span>
+ <span class="nx">title</span> <span class="p">=</span> <span class="p">{</span><span class="nx">extRatum</span><span class="p">:</span> <span class="nx">Summary</span> <span class="nx">Statistics</span> <span class="k">for</span> <span class="nx">Geospatial</span> <span class="nx">Features</span><span class="p">},</span>
+ <span class="nx">author</span> <span class="p">=</span> <span class="p">{</span><span class="nx">Nikos</span> <span class="nx">Patias</span> <span class="nx">and</span> <span class="nx">Francisco</span> <span class="nx">Rowe</span><span class="p">},</span>
+ <span class="nx">year</span> <span class="p">=</span> <span class="p">{</span><span class="mi">2021</span><span class="p">},</span>
+ <span class="nx">note</span> <span class="p">=</span> <span class="p">{</span><span class="nx">R</span> <span class="kn">package</span> <span class="nx">version</span> <span class="mf">1.0.4</span><span class="p">},</span>
+ <span class="nx">url</span> <span class="p">=</span> <span class="p">{</span><span class="nx">https</span><span class="p">:</span><span class="c1">//CRAN.R-project.org/package=extRatum},
+</span><span class="c1"></span> <span class="p">}</span>
+</code></pre></div>
 </div>
 </div>
 
