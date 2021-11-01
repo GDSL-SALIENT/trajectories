@@ -6,6 +6,8 @@ weight: 2
 
 ## Nikos Patias
 
+Nikos Patias is a PhD student at the Geographic Data Science Lab at the University of Liverpool. He is currently working as a Policy Analyst at the Centre for Entrepreneurship, SMEs, Regions and Cities of the OECD. His research interests are: computational urban science, spatial inequalities and Geographic Information Science.
+
 ### Contact
 
 <N.Patias@liverpool.ac.uk>

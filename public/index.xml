@@ -13,10 +13,11 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>www.example.com/docs/research-team/</guid>
-      <description>Nikos Patias Contact N.Patias@liverpool.ac.uk
+      <description>Nikos Patias Nikos Patias is a PhD student at the Geographic Data Science Lab at the University of Liverpool. He is currently working as a Policy Analyst at the Centre for Entrepreneurship, SMEs, Regions and Cities of the OECD. His research interests are: computational urban science, spatial inequalities and Geographic Information Science.
+Contact N.Patias@liverpool.ac.uk
 patnik.github.io
 @pat_nikos
-Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the Global Migration Data Analysis Centre within International Organization for Migration, the United Nations Economic Commission for Latin America and the Caribbean, the UK2070 Commission, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix.</description>
+Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab.</description>
     </item>
     
     <item>
@@ -60,14 +61,71 @@ Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</descrip
     </item>
     
     <item>
+      <title>Index</title>
+      <link>www.example.com/docs/r-package/</link>
+      <pubDate>Mon, 01 Nov 2021 10:49:34 +0100</pubDate>
+      
+      <guid>www.example.com/docs/r-package/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Interactive maps</title>
+      <link>www.example.com/docs/interactive-maps/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:58 +0100</pubDate>
+      
+      <guid>www.example.com/docs/interactive-maps/</guid>
+      <description>Temporal neighbourhood classification 1971-2011 Access here
+Neighbourhood trajectories 1971-2011 Access here</description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>www.example.com/docs/media/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:49 +0100</pubDate>
+      
+      <guid>www.example.com/docs/media/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Products</title>
+      <link>www.example.com/docs/open-data/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:38 +0100</pubDate>
+      
+      <guid>www.example.com/docs/open-data/</guid>
+      <description>The outputs of the trajectories of neighbourhood socioeconomic change in Great Britain (197-2011) can be downloaded as a geopackage from CDRC website here</description>
+    </item>
+    
+    <item>
+      <title>Policy Briefs</title>
+      <link>www.example.com/docs/policy-briefs/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:10 +0100</pubDate>
+      
+      <guid>www.example.com/docs/policy-briefs/</guid>
+      <description>Rowe, F., Patias, N., and Arribas-Bel, D. (2020). Policy brief: Neighbourhood change and trajectories of inequality in britain, 1971-2011 Access here</description>
+    </item>
+    
+    <item>
+      <title>Journal articles</title>
+      <link>www.example.com/docs/articles/</link>
+      <pubDate>Mon, 01 Nov 2021 09:49:22 +0100</pubDate>
+      
+      <guid>www.example.com/docs/articles/</guid>
+      <description>Patias, N., Rowe, F., and Cavazzi, S. (2020). A scalable analytical framework for spatio-temporal analysis of neighborhood change: A sequence analysis approach. Geospatial Technologies for Local and Regional Development, pages 223–241 https://doi.org/10.1007/978-3-030-14745-7_13
+Patias, N., Rowe, F., and Arribas-Bel, D. [Forthcoming]. Trajectories of Neighbourhood Inequality in Britain: Unpacking Inter-regional Socioeconomic Imbalances, 1971-2011. Geographical Journal
+Patias, N., Rowe, F., Cavazzi, S., and Arribas-Bel, D. (2021). Sustainable urban development indicators in Great Britain from 2001 to 2016.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>www.example.com/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>www.example.com/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>
